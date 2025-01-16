@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "text": "This is a short introduction to our posts."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started",
+      "text": "A quick guide to setting up your first project."
+    },
+    {
+      "id": 3,
+      "title": "Tips & Tricks",
+      "text": "A handful of useful tips for new developers."
+    },
+    {
+      "id": 4,
+      "title": "Best Practices",
+      "text": "Recommended ways to organize and structure your code."
+    },
+    {
+      "id": 5,
+      "title": "Wrapping Up",
+      "text": "A short conclusion and next steps for you to explore."
+    },
+    {
+      "id": "64cc",
+      "title": "Introduction to JSON",
+      "shortText": "Learn the basics of JSON, a lightweight data-interchange format."
+    },
+    {
+      "id": "9ebb",
+      "title": "Introduction to JSON",
+      "shortText": "Learn the basics of JSON, a lightweight data-interchange format."
+    }
+  ]
+}
